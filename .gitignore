@@ -1,0 +1,4 @@
+.idea
+.ipynb_checkpoints
+./Clean Data/UK_cleandf.csv
+./Clean Data/US_cleandf.csv
